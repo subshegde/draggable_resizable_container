@@ -6,8 +6,6 @@
 
 [![Issues](https://img.shields.io/github/issues/subshegde/draggable_resizable_container.svg?style=for-the-badge)](https://github.com/subshegde/draggable_resizable_container/issues)
 
-[![License](https://img.shields.io/github/license/subshegde/draggable_resizable_container.svg?style=for-the-badge)](https://github.com/subshegde/blob/master/LICENSE.txt)
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://linkedin.com/in/subrahmanya-s-hegde-2329112a2)
 
 [![Instagram](https://img.shields.io/badge/-Instagram-black.svg?style=for-the-badge&logo=instagram&colorB=555)](https://instagram.com/_ss_hegde)
@@ -15,7 +13,6 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=github&colorB=555)](https://github.com/subshegde)
 
 [![YouTube](https://img.shields.io/badge/-YouTube-black.svg?style=for-the-badge&logo=youtube&colorB=555)](https://youtube.com/@sshegde.visuals)
-
 
 
 # Draggable Resizable Container
@@ -55,10 +52,6 @@
 
 A Flutter package that provides a customizable, draggable, and resizable container. This container allows users to interact with a list of items, drag to resize, and supports both light and dark themes. It's ideal for creating dynamic, user-friendly interfaces with customizable sections.
 
-### Built With
-* [Flutter](https://flutter.dev/)
-* [Dart](https://dart.dev/)
-
 ## Getting Started
 
 To use the `draggable_resizable_container` package in your Flutter project, follow these steps:
@@ -90,7 +83,7 @@ Ensure you have the following installed on your system:
 Here’s how to integrate the `DraggableResizableContainerSub` widget into your Flutter app:
 
 ## Demo Video
-[![YouTube](https://img.shields.io/badge/-YouTube-black.svg?style=for-the-badge&logo=youtube&colorB=555)](https://youtube.com/c/your_youtube_channel)
+[![YouTube](https://img.shields.io/badge/-YouTube-black.svg?style=for-the-badge&logo=youtube&colorB=555)](https://youtu.be/EilX-RuSG80?si=znDYudker77GpdlZ)
 
 
 ```dart
