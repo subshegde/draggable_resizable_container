@@ -1,4 +1,4 @@
-import 'package:draggable_resizable_container/draggable_resizable_container_example.dart';
+import 'package:draggable_resizable_container/draggable_resizable_container.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
