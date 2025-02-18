@@ -1,0 +1,31 @@
+name: draggable_resizable_container
+description: "This is a customizable Flutter widget that allows users to resize and drag a container. It displays a list of items with optional action buttons and supports dynamic height adjustment. The appearance, including colors and layout, can be fully customized based on light or dark modes."
+version: 0.0.1
+homepage: https://github.com/subshegde/draggable_resizable_container
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  # Uncomment and list assets if your package uses them
+  # assets:
+  #   - images/example_image.png
+
+  # Uncomment and list custom fonts if used in your package
+  # fonts:
+  #   - family: ExampleFont
+  #     fonts:
+  #       - asset: fonts/ExampleFont-Regular.ttf
+
+  # Specify the directory for your source files if necessary
+  # source: lib/
