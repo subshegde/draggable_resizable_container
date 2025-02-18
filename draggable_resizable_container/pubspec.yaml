@@ -1,7 +1,7 @@
 name: draggable_resizable_container
 description: "This is a customizable Flutter widget that allows users to resize and drag a container. It displays a list of items with optional action buttons and supports dynamic height adjustment. The appearance, including colors and layout, can be fully customized based on light or dark modes."
 version: 0.0.1
-homepage: https://github.com/subshegde/draggable_resizable_container
+homepage: https://github.com/subshegde/draggable_resizable_container.git
 
 environment:
   sdk: '>=3.4.4 <4.0.0'
